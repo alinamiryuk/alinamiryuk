@@ -1,9 +1,3 @@
-<style>
-    .grey {
-            filter: invert(48%) sepia(0%) saturate(6877%) hue-rotate(22deg) brightness(103%) contrast(52%);
-    }
-</style>
-
 <h3 align="center">Frontend Developer (React/Typescript) / Fullstack Developer (MERN)</h3>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -21,7 +15,8 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
     </a> 
     <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-        <img class="grey" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
+        <img style="filter: invert(48%) sepia(0%) saturate(6877%) hue-rotate(22deg) brightness(103%) contrast(52%);
+    " src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
