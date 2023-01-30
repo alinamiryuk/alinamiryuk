@@ -1,6 +1,6 @@
 <h3 align="center">Frontend Developer (React/Typescript) / Fullstack Developer (MERN)</h3>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Stack:</h3>
 <p align="center"> 
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
